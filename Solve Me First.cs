@@ -1,4 +1,4 @@
-# HACKER RANK C# QUESTION
+# HACKER RANK PROBLEM SOLVING QUESTION
 
 using System;
 using System.Collections.Generic;
